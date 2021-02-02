@@ -4,7 +4,7 @@ export default theme => ({
 	flexDirection: "row",
 	alignItems: "center",
 	justifyContent: "space-between",
-	padding: "0px 80px",
+	padding: "16px 80px",
 },
     space: {
 	    margin: "10",
