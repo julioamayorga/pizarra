@@ -4,13 +4,10 @@ export default theme => ({
 	flexDirection: "row",
 	alignItems: "center",
 	justifyContent: "space-between",
-	padding: "16px 80px",
+	padding: "16px",
 	},
 	logo: {
 		textDecoration: "none",
 		color: "#fcfcfc",
-	},
-    space: {
-	    marginLeft: "16px",
 },
 })
