@@ -16,7 +16,7 @@ export default theme => ({
         display: "flex",
         flexDirection: "column",
         alignItems: "flex-start",
-        width: "95%",
+        width: "100%",
     },
     sidebarButtons: {
         height: "48px",
